@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="8" fill="#e2e8f0"/>
+  <rect x="8" y="8" width="48" height="48" rx="4" fill="#cbd5e1" stroke="#94a3b8" stroke-width="1" stroke-dasharray="4 2"/>
+  <text x="32" y="36" font-family="system-ui, sans-serif" font-size="10" fill="#64748b" text-anchor="middle">IMG</text>
+</svg>
